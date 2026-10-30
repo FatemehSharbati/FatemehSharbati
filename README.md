@@ -48,12 +48,3 @@ Brain MRI preprocessing · Tumor segmentation · Medical vision-language models 
 | **[brain-mri-preprocessing-pipeline](https://github.com/FatemehSharbati/brain-mri-preprocessing-pipeline)**<br>Reproducible T1 brain MRI preprocessing: N4 bias-field correction, z-score normalization, isotropic resampling, optional template registration — plus a slice-montage QC report.<br><br>**Python · SimpleITK · nibabel · matplotlib** | **[anatomical-seg-benchmark-qc](https://github.com/FatemehSharbati/anatomical-seg-benchmark-qc)**<br>Honest benchmarking harness for anatomical segmentation tools (TotalSegmentator, SynthSeg): per-label Dice, HD95, volume similarity and overlay visualizations.<br><br>**Python · NumPy · SciPy · nibabel** |
 | **[brats-tumor-segmentation-nnunet](https://github.com/FatemehSharbati/brats-tumor-segmentation-nnunet)**<br>Brain tumor segmentation on BraTS: raw-data converter for nnU-Net v2, MONAI SegResNet training, and WT / TC / ET Dice evaluation.<br><br>**Python · PyTorch · MONAI · nnU-Net** | **[unsupervised-mri-anomaly-detection](https://github.com/FatemehSharbati/unsupervised-mri-anomaly-detection)**<br>Convolutional autoencoders trained on healthy brain MRI; lesions surface as reconstruction-error anomaly maps. No labels needed.<br><br>**Python · PyTorch · scikit-learn** |
 | **[radiology-mini-vlm](https://github.com/FatemehSharbati/radiology-mini-vlm)**<br>Educational CLIP-style text-to-image retrieval for radiology, plus a subgroup fairness audit (per-group AUROC with bootstrap CIs).<br><br>**Python · open-CLIP · pandas · scikit-learn** | *More coming —* this profile is built in public, one project at a time. |
-
----
-
-## GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatemehSharbati&show_icons=true&theme=dark" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehSharbati&layout=compact&theme=dark" alt="Top languages"/>
-</div>
