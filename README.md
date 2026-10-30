@@ -57,6 +57,14 @@ I'm a **Radiologic Technologist** (Babol University of Medical Sciences) working
 
 ---
 
+## 🧠 Contribution fMRI
+
+<div align="center">
+  <img src="assets/fmri.svg" width="100%" alt="Contribution fMRI — animated activation map of my GitHub contributions"/>
+</div>
+
+---
+
 ## Certifications
 
 - Fundamental Neuroscience for Neuroimaging
