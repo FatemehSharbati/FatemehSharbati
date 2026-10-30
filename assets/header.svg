@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1026"/>
+      <stop offset="0.55" stop-color="#131a3a"/>
+      <stop offset="1" stop-color="#1d1440"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle cx="600" cy="150" r="220" fill="url(#glow)"/>
+  <g stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.5">
+    <line x1="120" y1="90" x2="220" y2="60"/><line x1="220" y1="60" x2="320" y2="110"/>
+    <line x1="120" y1="90" x2="180" y2="180"/><line x1="180" y1="180" x2="320" y2="110"/>
+    <line x1="180" y1="180" x2="260" y2="240"/><line x1="320" y1="110" x2="260" y2="240"/>
+    <line x1="980" y1="80" x2="1080" y2="120"/><line x1="1080" y1="120" x2="1020" y2="210"/>
+    <line x1="980" y1="80" x2="900" y2="170"/><line x1="900" y1="170" x2="1020" y2="210"/>
+    <line x1="900" y1="170" x2="960" y2="250"/><line x1="1020" y1="210" x2="960" y2="250"/>
+  </g>
+  <g fill="#22d3ee" fill-opacity="0.8">
+    <circle cx="120" cy="90" r="5"/><circle cx="220" cy="60" r="7"/><circle cx="320" cy="110" r="5"/>
+    <circle cx="180" cy="180" r="6"/><circle cx="260" cy="240" r="5"/>
+    <circle cx="980" cy="80" r="6"/><circle cx="1080" cy="120" r="5"/><circle cx="1020" cy="210" r="7"/>
+    <circle cx="900" cy="170" r="5"/><circle cx="960" cy="250" r="5"/>
+  </g>
+  <g fill="#a78bfa" fill-opacity="0.8">
+    <circle cx="480" cy="70" r="4"/><circle cx="730" cy="230" r="4"/><circle cx="420" cy="230" r="3"/>
+    <circle cx="790" cy="80" r="3"/>
+  </g>
+  <text x="600" y="138" text-anchor="middle" font-family="Verdana, sans-serif" font-size="52" font-weight="bold" fill="#f1f5f9">Fatemeh Sharbati</text>
+  <text x="600" y="182" text-anchor="middle" font-family="Verdana, sans-serif" font-size="22" fill="url(#accent)">Neuroimaging &#183; Medical Imaging AI</text>
+  <text x="600" y="216" text-anchor="middle" font-family="Verdana, sans-serif" font-size="15" fill="#94a3b8">Radiology graduate &#183; open tools from DICOM to deep learning</text>
+</svg>
