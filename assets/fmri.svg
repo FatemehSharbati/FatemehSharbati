@@ -760,6 +760,8 @@
 <rect x="832" y="80" width="12" height="12" rx="3" fill="#fef3c7">
 <animate attributeName="opacity" values="1;0.45;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
 </rect>
+<rect x="832" y="96" width="12" height="12" rx="3" fill="#7c2d12">
+</rect>
 <g stroke="#22d3ee" fill="none"><circle cx="838.0" cy="86.0" r="9" stroke-width="1.5" opacity="0.9"><animate attributeName="r" values="9;16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2s" repeatCount="indefinite"/></circle><line x1="825.0" y1="86.0" x2="832.0" y2="86.0" stroke-width="1.5"/><line x1="844.0" y1="86.0" x2="851.0" y2="86.0" stroke-width="1.5"/><line x1="838.0" y1="73.0" x2="838.0" y2="80.0" stroke-width="1.5"/><line x1="838.0" y1="92.0" x2="838.0" y2="99.0" stroke-width="1.5"/></g>
 <rect x="-46" y="-6" width="40" height="120" fill="url(#beam)" filter="url(#soft)" opacity="0.8"><animate attributeName="x" from="-46" to="850" dur="7s" repeatCount="indefinite"/></rect>
 <line x1="-6" y1="-6" x2="-6" y2="114" stroke="#a5f3fc" stroke-width="1.5" opacity="0.85"><animate attributeName="x1" from="-6" to="890" dur="7s" repeatCount="indefinite"/><animate attributeName="x2" from="-6" to="890" dur="7s" repeatCount="indefinite"/></line>
@@ -770,5 +772,5 @@
 <rect x="96" y="192" width="12" height="12" rx="3" fill="#c2410c"/>
 <rect x="112" y="192" width="12" height="12" rx="3" fill="#f59e0b"/>
 <rect x="128" y="192" width="12" height="12" rx="3" fill="#fef3c7"/>
-<text x="150" y="202" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10" fill="#475569">more &#183; BOLD signal &#183; 14 contributions</text>
+<text x="150" y="202" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10" fill="#475569">more &#183; BOLD signal &#183; 16 contributions</text>
 </svg>
